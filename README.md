@@ -4,5 +4,5 @@
 
 - 🏢 I'm currently working at [Syncier](https://www.syncier.com/en)
 - ⚙️ I use daily: Terraform, Kubernetes, Ansible, AWS, Azure
-- 🌱 Learning all about **Open Source**
+- 🌱 Interested in contibuting in **Open Source projects**
 - 📫 Reach me: [Email](mailto:dobozniy@gmail), [Telegram](https://t.me/RassolC)
